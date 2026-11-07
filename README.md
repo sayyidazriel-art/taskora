@@ -60,6 +60,10 @@
 - English.
 - Indonesia.
 
+For a complete explanation of all available features, dashboards, and their functionality, check out:
+
+**[📖 Explore Taskora Features](FEATURES.md)**
+
 ## 🛠️ Technology Stack
 
 - **Language:** Kotlin
